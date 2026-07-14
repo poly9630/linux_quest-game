@@ -1,7 +1,3 @@
-A well-structured README.md is essential for a repository like linux_quest-game. Since this appears to be an educational or gamified approach to learning Linux, the documentation should clearly explain how to start the game and what the user will learn.
-
-Here is a professional template you can copy and paste into your README.md file:
-
 Linux Quest Game 🐧⚔️
 Welcome to Linux Quest, an interactive terminal-based adventure designed to turn the complexity of Linux command-line mastery into an engaging quest. Whether you are a "Newbie" squire or a "Root" legend, this game challenges your skills in navigation, file management, and system administration.
 
